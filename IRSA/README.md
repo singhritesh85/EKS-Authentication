@@ -14,6 +14,6 @@ An IAM Role has been created with the name S3BucketAccessK8SRole as shown in the
 
 (a) First of all open console for IAM and open Identity Providers as shown in the screenshot below
 
-![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/b836994b-4644-4e1a-aa4b-f12d23f7bf71)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/8d8abf50-6bc2-425b-a55c-f44aedc36dde)
 
 
