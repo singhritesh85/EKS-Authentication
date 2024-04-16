@@ -1,0 +1,23 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "eks:DescribeNodegroup",
+                "eks:ListNodegroups",
+                "eks:DescribeCluster",
+                "eks:ListClusters",
+                "eks:AccessKubernetesApi",
+                "eks:ListClusters",
+                "ssm:GetParameter",
+                "eks:ListUpdates",
+                "eks:ListFargateProfiles"
+            ],
+            "Resource": [
+                "arn:aws:eks:us-east-2:027330342406:cluster/*",
+                "arn:aws:eks:us-east-2:027330342406:nodegroup/eks-demo-cluster-dev/*"
+            ]
+        }
+    ]
+}
