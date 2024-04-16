@@ -35,3 +35,10 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 
 
 
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/1af0e600-37c8-4c44-8e3c-8f93a5625c92)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f164c906-6e85-49fc-8b42-057604d68e41)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/bcbed4b3-09e0-4c62-909d-be4a7d7599b8)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/e9e23c3c-d0fc-4b10-871a-c8f67eaaf744)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/86c24373-507f-4117-ba90-46d361ff8d06)
+
+
