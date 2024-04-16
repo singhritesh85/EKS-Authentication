@@ -46,6 +46,8 @@ Now users user1 and rajesh will have the restricted and cluster-admin access as 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/748370d3-82a7-463e-80ed-ee2316bd6b1d)
 
 
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/c3e322c7-db21-435b-9e83-4aad1d64b8ec)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/47236b75-f1e8-4c94-9a94-68af408d6bf1)
 
 
 
