@@ -22,6 +22,23 @@ Two groups, attached policy to each group and users attached to each group is as
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/789a1c60-fcc2-49d5-aa75-acc5b26f8aa1)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f4fcdea0-32d0-454e-871b-be97c1c70e54)
 <br><br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5fe17880-9bc2-4959-9abd-1b07a2c4ab71)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/bd5aa39b-73b2-4997-a666-dbabb5eb5107)
+
+<br> <br/>
+Create Role and Role-Binding which will be utilized for the test-user user1. Another user rajesh will be attached to group system:masters in aws-auth configmap of kube-system namespace. The cluster administrator will be directly attached to system:masters group.
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/09420d79-7d50-4e51-88ba-26bb56cf1e24)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/1e3d91b8-137b-4807-bc2d-7b585215f3c6)
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/201a3a19-1fee-4b65-9729-08167fffe5dc)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f1a56c8b-0251-4564-8889-d1c1d74df41b)
+<br><br/>
+Initially the configmap is as shown in the screenshot attached below
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/90caebe0-c969-46b9-b403-979d3929199e)
+
+
+
 
 
 
