@@ -36,6 +36,9 @@ An IAM Role has been created with the name S3BucketAccessK8SRole as shown in the
 
 Add the suffix in the second line of StringEquals to sub instead of aud of the first line and system:serviceaccount:demo:app. where demo is the namespace into which the serviceaccount will be created and app is the name of the serviceaccount.
 
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/30097c9f-82e5-4c97-9e9f-50b0da9a9019)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/12f261dc-538d-4ff1-9f3b-57139ad361bf)
+
 
 
 
