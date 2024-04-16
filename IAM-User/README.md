@@ -51,6 +51,12 @@ Now users user1 and rajesh will have the restricted and cluster-admin access as 
 
 
 
+Login to aws console with user user1 and rajesh and can check the access in the AWS console as per the IAM policy attached to the respective group of IAM Users.
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f9ffd7ec-2763-4173-9f8d-2ec8d012fa3f)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/4247b03a-a1b7-4df7-99bc-6c2a8eb49474)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/0f557a37-a56c-4917-9235-bd9a3a78b5f8)
+
+
 
 
 
