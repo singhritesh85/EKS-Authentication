@@ -34,7 +34,7 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/7b025611-c5a9-4fcd-b06e-13174a4f9457)
 
 
-
+**Authenticate and Authorize your system to access the EKS cluster.**
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/1af0e600-37c8-4c44-8e3c-8f93a5625c92)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/a0240a83-b610-4034-af77-e11d9d0815d7)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f164c906-6e85-49fc-8b42-057604d68e41)
