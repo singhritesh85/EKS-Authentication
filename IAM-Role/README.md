@@ -34,6 +34,10 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/aa33cf5c-56fb-4090-a6a1-15ecd784980e)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/7b025611-c5a9-4fcd-b06e-13174a4f9457)
 
+<br> <br/>
+**Entry for Configmap aws-auth in namespace kube-system has been done as shown in the screenshot below**
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/28d25bcf-a9f0-4b15-8da8-6f6dea76ed8e)
+
 
 **Authenticate and Authorize your system to access the EKS cluster.**
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/1af0e600-37c8-4c44-8e3c-8f93a5625c92)
