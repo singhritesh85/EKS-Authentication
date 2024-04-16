@@ -34,8 +34,17 @@ Create Role and Role-Binding which will be utilized for the test-user user1. Ano
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f1a56c8b-0251-4564-8889-d1c1d74df41b)
 <br><br/>
 Initially the configmap is as shown in the screenshot attached below
-
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/944d7259-5417-4b61-9c47-a8fd95099d4f)
+<br><br/>
+configmap aws-auth present in namespace kube-system will be edited
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/90caebe0-c969-46b9-b403-979d3929199e)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5479e330-2fe6-4d42-b940-f735879d4159)
+<br> <br/>
+Now users user1 and rajesh will have the restricted and cluster-admin access as shown in the screenshots attached below
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/24f3a465-9927-46d2-8eb0-dc993b5db42c)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/74088dbf-058b-4d9b-8ac8-7e6fc5bac9cc)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/748370d3-82a7-463e-80ed-ee2316bd6b1d)
+
 
 
 
