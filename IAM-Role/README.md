@@ -28,6 +28,9 @@ source_profile = default
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/47632f1b-3bb8-4179-a68a-5a1cfd43ea5a)
 
 <br><br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/1b4a5852-c852-42b2-b597-2620da2f3525)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/9ee29d56-c65c-4c47-a3ed-81e1ef4ed511)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/d25ee64f-0a7b-49b7-b6c3-6161e10d7fd4)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/2daeb19c-0071-4b1e-b528-e2d19aa4d7c9)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/dfad6336-f516-4169-9b57-c260b22dfb5a)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/58782fef-cf4a-4e5f-a4cd-13b361d7aa30)
