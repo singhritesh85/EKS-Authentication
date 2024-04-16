@@ -60,3 +60,19 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/51d52c45-0917-4158-afea-6c239edbf2cb)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/3573d723-b79e-4fdd-b43f-034a882e82c5)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5f275a03-b88f-41c2-b24e-b991f1de4f4b)
+
+**How to Access EKS Cluster from the AWS Console for these Users**
+Open the URL and provide Account ID, Username and Password and login into the AWS Console.
+Then open a new tab and open "Link to switch roles in console" (URL which was shared with you), these URLs shared for IAM Roles AmazonEKSNodesAndWorkloadsViewPolicy and AmazonEKSAdminPolicy.
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5a960710-fe79-4069-b63b-559ba8b039fd)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/0282f9f4-e1ce-4f53-8f34-47879b22798b)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/967d6ca2-49fb-4ca4-84fb-e48dbbd581fa)
+
+<br> <br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/92788b1c-3031-4c3f-9c8b-8f285535b6be)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/0642f610-b25b-4348-a83d-459b4acd7875)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/97a68fde-42d7-4b1c-9852-256238fd4f39)
+
+
+
+
