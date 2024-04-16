@@ -62,6 +62,7 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5f275a03-b88f-41c2-b24e-b991f1de4f4b)
 
 **How to Access EKS Cluster from the AWS Console for these Users**
+<br><br/>
 Open the URL and provide Account ID, Username and Password and login into the AWS Console.
 Then open a new tab and open "Link to switch roles in console" (URL which was shared with you), these URLs shared for IAM Roles AmazonEKSNodesAndWorkloadsViewPolicy and AmazonEKSAdminPolicy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5a960710-fe79-4069-b63b-559ba8b039fd)
