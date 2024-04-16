@@ -7,7 +7,7 @@
 2. create IAM user group named as demo-group and admin-group and IAM Policy named as AmazonEKSNodesAndWorkloadsViewPolicy and AmazonEKSAdminPolicy. Create two IAM Roles AmazonEKSNodesAndWorkloadsViewRole and AmazonEKSAdminRole.
 3. As a best practice attach users demo-user and rakesh to IAM User Group demo-group and admin-group respectively.
 4. Create Assume Role Policy AmazonEKSAssumeEKSNodesAndWorkloadsViewPolicy and AmazonEKSAssumeEKSAdminPolicy for the IAM Role AmazonEKSNodesAndWorkloadsViewRole and AmazonEKSAdminRole as the Resource respectively.
-5. In the present case there is no need to create any Role, RoleBinding, ClusterRole or ClusterRoleBinding. It is going to authorize from the IAM Role itself.
+5. You can create Role, RoleBinding, ClusterRole and ClusterRoleBinding as per your requirement.
 ```
 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/011e77bc-c6a6-4ef0-bdae-0c05e824815b)
