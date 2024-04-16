@@ -15,5 +15,15 @@ IAM Policy for EKSAdminPolicy
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/074750dd-05ff-4fca-a0f0-c86d899f5567)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/6eb43d38-381c-464d-bec3-555e36746ff5)
 
+<br><br/>
+Two groups, attached policy to each group and users attached to each group is as shown in the sreenshot attached below
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/545a846f-7c49-4b3e-a687-ee30e965c608)
+<br><br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/789a1c60-fcc2-49d5-aa75-acc5b26f8aa1)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f4fcdea0-32d0-454e-871b-be97c1c70e54)
+<br><br/>
+
+
+
 
 
