@@ -9,6 +9,14 @@
 4. Create Assume Role Policy AmazonEKSAssumeEKSNodesAndWorkloadsViewPolicy and AmazonEKSAssumeEKSAdminPolicy for the IAM Role AmazonEKSNodesAndWorkloadsViewRole and AmazonEKSAdminRole as the Resource respectively.
 5. You can create Role, RoleBinding, ClusterRole and ClusterRoleBinding as per your requirement.
 6. group system:masters represents cluster-administrator.
+7. It is Important to note here after providing credentials (Access Key and Secret Key) using aws configure, create profile in ~/.aws/config file as shown below
+[root@rakesh-system ~]# cat ~/.aws/config
+[default]
+region = us-east-2
+output = json
+[profile rakesh]
+role_arn = arn:aws:iam::027330342406:role/AmazonEKSAdminRole
+source_profile = default 
 ```
 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/011e77bc-c6a6-4ef0-bdae-0c05e824815b)
