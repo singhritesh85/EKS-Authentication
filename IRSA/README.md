@@ -12,10 +12,7 @@ Here I have created an IAM Policy with the Name S3BucketAccessK8S as shown in th
 
 An IAM Role has been created with the name S3BucketAccessK8SRole as shown in the screen shot attached below
 
-```
 (a) First of all open console for IAM and open Identity Providers as shown in the screenshot below
 
     ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/95ff4e89-0a71-4c74-9392-309e9d38fa7c)
 
-
-```
