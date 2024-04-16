@@ -45,7 +45,7 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 <br> <br/>
 **Create Namespace, Role, RoleBinding and deployment as shown in the screenshot below**
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/b62e04c6-19ba-46b0-baea-66ba5ac20ad8)
-
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/8c810af7-0d4e-4918-a7fa-45ade091f121)
 
 <br> <br/>
 **Entry for Configmap aws-auth in namespace kube-system has been done as shown in the screenshot below**
