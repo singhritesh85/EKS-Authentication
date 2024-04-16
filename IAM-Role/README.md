@@ -21,3 +21,7 @@
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/58782fef-cf4a-4e5f-a4cd-13b361d7aa30)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/edfbe8f0-7a7a-489c-bfc4-34cdc053053d)
 
+<br> <br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/17ed618d-14fb-48ee-a692-601314f495de)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/b47745e0-8645-47fd-9d57-a6f13b5e6441)
+
