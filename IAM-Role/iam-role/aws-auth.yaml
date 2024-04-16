@@ -1,0 +1,27 @@
+# Please edit the object below. Lines beginning with a '#' will be ignored,
+# and an empty file will abort the edit. If an error occurs while saving this file will be
+# reopened with the relevant failures.
+#
+apiVersion: v1
+data:
+  mapRoles: |
+    - groups:
+      - system:bootstrappers
+      - system:nodes
+      rolearn: arn:aws:iam::027330342406:role/eks-nodegroup-role-dev
+      username: system:node:{{EC2PrivateDNSName}}
+    - groups:
+      - reader
+      rolearn: arn:aws:iam::027330342406:role/AmazonEKSNodesAndWorkloadsViewRole
+      username: AmazonEKSNodesAndWorkloadsViewRole
+    - groups:
+      - system:masters
+      rolearn: arn:aws:iam::027330342406:role/AmazonEKSAdminRole
+      username: AmazonEKSAdminRole
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2024-04-16T04:53:19Z"
+  name: aws-auth
+  namespace: kube-system
+  resourceVersion: "96089"
+  uid: 7b0XXXXX-fc08-XXXX-b3e4-8eXXXXa6bc74
