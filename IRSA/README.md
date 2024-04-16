@@ -46,6 +46,7 @@ Add the suffix in the second line of StringEquals to sub instead of aud of the f
 <br> <br/>
 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/f595213b-a564-4623-8070-3ae20810dd2a)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/68a72e04-54fe-4299-b368-57ad985a29bc)
 
 
 
