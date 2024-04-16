@@ -6,3 +6,14 @@ EKS IRSA stands for **Elastic Kubernetes Service IAM Role Service Account**. It 
 1. An IAM Policy should be created which allows to access the respective AWS Service.
 2. Create an IAM Role with Trusted Entity Type as Web Identity using Identity Provider of EKS OIDC and Audience as sts.amazonaws.com. 
 ```
+Here I have created an IAM Policy with the Name S3BucketAccessK8S as shown in the screenshot below
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/9c1c6ca6-62ee-43a8-8650-9d90e8b2c8b7)
+
+An IAM Role has been created with the name S3BucketAccessK8SRole as shown in the screen shot attached below
+
+```
+(a) First of all open console for IAM and open Identity Providers as shown in the screenshot below
+    ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/9d05a5d6-062b-4c26-a01d-28f703790fb7)
+
+```
