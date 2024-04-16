@@ -8,6 +8,7 @@
 3. As a best practice attach users demo-user and rakesh to IAM User Group demo-group and admin-group respectively.
 4. Create Assume Role Policy AmazonEKSAssumeEKSNodesAndWorkloadsViewPolicy and AmazonEKSAssumeEKSAdminPolicy for the IAM Role AmazonEKSNodesAndWorkloadsViewRole and AmazonEKSAdminRole as the Resource respectively.
 5. You can create Role, RoleBinding, ClusterRole and ClusterRoleBinding as per your requirement.
+6. group system:masters represents cluster-administrator.
 ```
 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/011e77bc-c6a6-4ef0-bdae-0c05e824815b)
@@ -42,4 +43,8 @@ Screenshots Attached below for IAM User, IAM User Group and attached IAM Policy.
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/e9e23c3c-d0fc-4b10-871a-c8f67eaaf744)
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/86c24373-507f-4117-ba90-46d361ff8d06)
 
-
+<br> <br/>
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/df3a4d9a-0368-46ce-9edc-36c084fd0474)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/51d52c45-0917-4158-afea-6c239edbf2cb)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/3573d723-b79e-4fdd-b43f-034a882e82c5)
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/5f275a03-b88f-41c2-b24e-b991f1de4f4b)
