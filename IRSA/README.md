@@ -16,4 +16,15 @@ An IAM Role has been created with the name S3BucketAccessK8SRole as shown in the
 
 ![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/8d8abf50-6bc2-425b-a55c-f44aedc36dde)
 
+(b) Identity Provide with the same OIDC as of EKS has been created when you will create the EKS using terraform script https://github.com/singhritesh85/terraform-eks-withaddons.git as shown in the screenshot below
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/d3ae0690-18d7-4730-8720-e7bab806e449)
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/387c00c0-4b55-46eb-814a-d24e84c25387)
+
+![image](https://github.com/singhritesh85/EKS-Authentication/assets/56765895/4d5deced-efc1-45dc-9182-52c6e58c8400)
+
+
+
+
 
