@@ -1,4 +1,4 @@
-# EKS Authentication with User, ServiceAccount, IAM User, IAM Role and IRSA
+# EKS Authentication with IAM User, IAM Role and IRSA
 
 **Difference between Role and cluster-Role is Role is used to provide privileges in some namespace while Cluster-Role is used to provide privileges over the cluster.**
 <br><br/>
